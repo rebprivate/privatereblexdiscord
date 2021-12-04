@@ -1,0 +1,25 @@
+.loveexploit
+{
+    position: absolute;
+    text-transform: none;
+    top: 40%;
+    left: 42%;
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30;
+    color: rgb(212, 205, 205);
+    background: transparent;
+    padding: 0px;
+    letter-spacing: 0px;
+}
+.loveexploit:hover
+{
+    color: white;
+    background: transparent;
+    box-shadow: 0 0 10px transparent, 0 0 10px transparent, 0 0 80px transparent;
+    border-radius: 0px;
+}
+.bgi
+{
+    background: #101010;
+}
